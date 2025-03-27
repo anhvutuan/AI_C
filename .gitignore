@@ -5,3 +5,4 @@ evn_ai/
 **/.DS_Store
 **/.hg
 **/Thumbs.db
+.evn
