@@ -1,2 +1,7 @@
 .git/
 evn_ai/
+**/.git
+**/.svn
+**/.DS_Store
+**/.hg
+**/Thumbs.db
